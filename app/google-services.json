@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "675925735297",
+    "firebase_url": "https://placesmaster-b7baa.firebaseio.com",
+    "project_id": "placesmaster-b7baa",
+    "storage_bucket": "placesmaster-b7baa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:675925735297:android:9677093a15f8ff28",
+        "android_client_info": {
+          "package_name": "com.example.hp.googlemapsgoogleplaces"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "675925735297-3g0nelk4lh5nimkhfjgco4h3aa5at4su.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKcuNwlLa-lteroVd5vWhzQ1by3DwwetE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

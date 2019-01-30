@@ -1,0 +1,16 @@
+<resources>
+    <string name="google_maps_API_key">AIzaSyBWmHG_2rV4Bux-Su508SS8z-QmnXUvoPY</string>
+    <string name="app_name">GoogleMapsGooglePlaces</string>
+    <string name="title_activity_maps">map</string>
+    <string name="title_activity_google_maps">Map</string>
+    <string name="search_here">Search here</string>
+    <string name="Register">Register</string>
+    <string name="title_activity_side">Side</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
